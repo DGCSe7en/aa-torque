@@ -51,6 +51,7 @@
     <string name="font_vw" translatable="false">Volkswagen CarUI</string>
     <string name="font_vw2" translatable="false">Volkswagen Thesis</string>
     <string name="font_vw3" translatable="false">VW Digit</string>
+    <string name="font_renault_life" translatable="false">renault_life</string>
     <string name="pref_appearance">Appearance</string>
     <string name="pref_centerclock">Center gauges</string>
     <string name="pref_font">Font</string>
