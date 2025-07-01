@@ -509,5 +509,19 @@
         <item name="android:maxWidth">@dimen/progress_bar_height_material_car</item>
         <item name="android:minHeight">48dp</item>
         <item name="android:maxHeight">480dp</item>
-    </style>
+
+    <style name="AppTheme.Renault" parent="AppTheme">
+        <item name="themedDialBackground">@drawable/dial_background_blank_Renault</item>
+        <item name="themedEmptyDialBackground">@drawable/dial_background_marks_Renault</item>
+        <item name="themedBlankDialBackground">@drawable/dial_background_marks_Renault</item>
+        <item name="themedCarBackground">@drawable/ic_theme_Renault</item>
+        <item name="themedNeedle">@drawable/needle_Renault</item>
+        <item name="themedStopWatchBackground">@drawable/dial_background_blank_Renault</item>
+        <item name="themedNeedleColor">@color/yellow</item>
+        <item name="sv_withIndicatorLight">false</item>
+        <item name="sv_indicatorLightColor">#FFD500</item>
+        <item name="sv_indicatorColor">@color/aqua</item>
+        <item name="sv_indicatorWidth">0dp</item>
+        <item name="sv_tickPadding">30dp</item>
+        <item name="sv_tickRotation">false</item>
 </resources>
