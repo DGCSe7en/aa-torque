@@ -512,12 +512,12 @@
     </style>
 
     <style name="AppTheme.Renault" parent="AppTheme">
-        <item name="themedDialBackground">@drawable/dial_background_blank_Renault</item>
-        <item name="themedEmptyDialBackground">@drawable/dial_background_marks_Renault</item>
-        <item name="themedBlankDialBackground">@drawable/dial_background_marks_Renault</item>
-        <item name="themedCarBackground">@drawable/ic_theme_Renault</item>
-        <item name="themedNeedle">@drawable/needle_Renault</item>
-        <item name="themedStopWatchBackground">@drawable/dial_background_blank_Renault</item>
+        <item name="themedDialBackground">@drawable/dial_background_blank_renault</item>
+        <item name="themedEmptyDialBackground">@drawable/dial_background_marks_renault</item>
+        <item name="themedBlankDialBackground">@drawable/dial_background_marks_renault</item>
+        <item name="themedCarBackground">@drawable/ic_theme_renault</item>
+        <item name="themedNeedle">@drawable/needle_renault</item>
+        <item name="themedStopWatchBackground">@drawable/dial_background_blank_renault</item>
         <item name="themedNeedleColor">@color/yellow</item>
         <item name="sv_withIndicatorLight">false</item>
         <item name="sv_indicatorLightColor">#FFD500</item>
