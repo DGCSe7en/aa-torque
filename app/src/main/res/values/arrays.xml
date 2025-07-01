@@ -27,6 +27,8 @@
         <item>Electro Vehicle</item>
         <item>Test</item>
         <item>Bolt</item>
+        <item>Renault</item>
+	
     </string-array>
 
     <array name="ThemesThumbs">
@@ -55,6 +57,7 @@
         <item>@drawable/ic_theme_ev</item>
         <item>@drawable/ic_theme_test</item>
         <item>@drawable/ic_theme_bolt</item>
+	<item>@drawable/ic_theme_Renault</item>
     </array>
 
     <array name="ThemeList">
@@ -83,6 +86,7 @@
         <item>@style/AppTheme.EV</item>
         <item>@style/AppTheme.Testing</item>
         <item>@style/AppTheme.Bolt</item>
+	<item>@style/AppTheme.Renault</item>
     </array>
 
     <string-array name="fontEntries">
@@ -111,6 +115,7 @@
         <item>larabie</item>
         <item>ford</item>
         <item>ev</item>
+	<item>Renault Life</item>
     </string-array>
 
     <string-array name="FontThumbs">
