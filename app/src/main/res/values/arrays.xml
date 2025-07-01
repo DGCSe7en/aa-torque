@@ -101,7 +101,6 @@
         <item>@string/font_larabie</item>
         <item>@string/font_ford</item>
 	<item>@string/font_ev</item>
-	<item>@string/font_renault</item>
     </string-array>
 
     <string-array name="fontValues">
@@ -116,7 +115,6 @@
         <item>larabie</item>
         <item>ford</item>
         <item>ev</item>
-	<item>renault_life</item>
     </string-array>
 
     <string-array name="FontThumbs">
@@ -131,7 +129,6 @@
         <item>@drawable/ic_font_larabie</item>
         <item>@drawable/ic_font_ford</item>
         <item>@drawable/ic_font_ev</item>
-        <item>@drawable/ic_font_renault_life</item>
     </string-array>
 
     <integer-array name="icons">
