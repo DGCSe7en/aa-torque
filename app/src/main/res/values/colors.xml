@@ -15,7 +15,7 @@
     <color name="pink">#77FF69B4</color>
     <color name="orange">#77FF8888</color>
     <color name="themed">?attr/themedNeedleColor</color>
-    <color name="RS Yellow">#FFD500</color>
+    <color name="RS_Yellow">#FFD500</color>
 
 
     <color name="car_primary">@android:color/white</color>
