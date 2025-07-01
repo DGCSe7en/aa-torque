@@ -524,4 +524,5 @@
         <item name="sv_indicatorWidth">0dp</item>
         <item name="sv_tickPadding">30dp</item>
         <item name="sv_tickRotation">false</item>
+    </style> 
 </resources>
