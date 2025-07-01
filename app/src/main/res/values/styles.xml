@@ -509,6 +509,7 @@
         <item name="android:maxWidth">@dimen/progress_bar_height_material_car</item>
         <item name="android:minHeight">48dp</item>
         <item name="android:maxHeight">480dp</item>
+    </style>
 
     <style name="AppTheme.Renault" parent="AppTheme">
         <item name="themedDialBackground">@drawable/dial_background_blank_Renault</item>
